@@ -1,5 +1,5 @@
 import React from 'react'
-import { Route, Redirect } from 'react-router'
+import { Redirect, Route } from 'react-router'
 import { Container, Loader } from 'rsuite'
 import { useProfile } from '../context/profile.context'
 
