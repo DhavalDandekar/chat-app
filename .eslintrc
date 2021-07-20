@@ -19,6 +19,7 @@
     "no-console": [0],
     "arrow-body-style": [0],
     "prefer-arrow-callback": [0],
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "import/no-extraneous-dependencies": "off"
   }
 }
